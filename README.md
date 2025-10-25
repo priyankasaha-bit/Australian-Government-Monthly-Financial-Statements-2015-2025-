@@ -60,4 +60,4 @@ https://drive.google.com/file/d/1iqHdfSl9-0iRj7uKpRbFyC4gaccS03tX/view?usp=drive
 ### 💬 Created by
 
 **Priyanka Saha**, Data Analyst with expertise in Tableau and Excel, passionate about turning financial and economic data into clear, insightful stories.  
-📧 LinkedIn: [Priyanka Saha](https://www.linkedin.com/in/priyanka-saha-a79a46241/)
+📧 LinkedIn: https://www.linkedin.com/in/priyanka-saha-a79a46241/
