@@ -26,7 +26,7 @@ The goal is to make complex financial data transparent and easy to interpret for
 
 Driven by a keen interest in Australia’s fiscal landscape, I explored Australian General Government Operating Statement dataset.
 
-📊 I observed one striking pattern over the past decade i.e 2015–16 to 2024–25, 𝗲𝘅𝗽𝗲𝗻𝘀𝗲𝘀 𝗵𝗮𝘃𝗲 𝗰𝗼𝗻𝘀𝗶𝘀𝘁𝗲𝗻𝘁𝗹𝘆 𝗼𝘂𝘁𝗽𝗮𝗰𝗲𝗱 𝗿𝗲𝘃𝗲𝗻𝘂𝗲𝘀 with the worse impact in 2020–21, where it reached $3.82M and revenue was only $2.67M, leading to a massive $1.15M deficit. But something that is noteworthy is 𝗥𝗲𝘃𝗲𝗻𝘂𝗲 𝗴𝗿𝗲𝘄 𝗳𝗿𝗼𝗺 $𝟮.𝟬𝟱𝗠 (𝟮𝟬𝟭𝟱–𝟭𝟲) 𝘁𝗼 $𝟯.𝟴𝟱𝗠 (𝟮𝟬𝟮𝟰–𝟮𝟱), 𝘀𝗵𝗼𝘄𝗶𝗻𝗴 𝟴𝟳% 𝗶𝗻𝗰𝗿𝗲𝗮𝘀𝗲 𝗼𝘃𝗲𝗿 𝘁𝗵𝗲 𝗱𝗲𝗰𝗮𝗱𝗲.
+📊 I observed one striking pattern over the past decade i.e 2015–16 to 2024–25, 𝗲𝘅𝗽𝗲𝗻𝘀𝗲𝘀 𝗵𝗮𝘃𝗲 𝗰𝗼𝗻𝘀𝗶𝘀𝘁𝗲𝗻𝘁𝗹𝘆 𝗼𝘂𝘁𝗽𝗮𝗰𝗲𝗱 𝗿𝗲𝘃𝗲𝗻𝘂𝗲𝘀 with the worse impact in 2020–21, where it reached $3.82M and revenue was only $2.67M, leading to a massive $1.15M deficit. 𝗥𝗲𝘃𝗲𝗻𝘂𝗲 𝗴𝗿𝗲𝘄 𝗳𝗿𝗼𝗺 $𝟮.𝟬𝟱𝗠 (𝟮𝟬𝟭𝟱–𝟭𝟲) 𝘁𝗼 $𝟯.𝟴𝟱𝗠 (𝟮𝟬𝟮𝟰–𝟮𝟱), 𝘀𝗵𝗼𝘄𝗶𝗻𝗴 𝟴𝟳% 𝗶𝗻𝗰𝗿𝗲𝗮𝘀𝗲 𝗼𝘃𝗲𝗿 𝘁𝗵𝗲 𝗱𝗲𝗰𝗮𝗱𝗲.
 
 💰 𝗧𝗮𝘅 𝗿𝗲𝘃𝗲𝗻𝘂𝗲 is consistently the largest contributor to total revenue roughly 𝟴𝟬 % of the total revenue. 
 
